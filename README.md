@@ -20,7 +20,7 @@ docker run -d \
     jedha/hack-a-llm-level-2
 ```
 
-### From docker hub
+### From docker hub (Discontinued)
 
 ```bash
 docker run -d \
